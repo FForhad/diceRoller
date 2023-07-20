@@ -1,6 +1,12 @@
-# basics
+# Dice Roller
 
 A new Flutter project.
+<p>Its a simple app of Dice Rolling. it has one button and while the button tapping the dice rolls and shows random dice number.</p>
+
+# ScreenShots
+![image](https://github.com/FForhad/diceRoller/assets/56457719/8a93fec7-9ee8-480d-8fcf-ac5502306096)
+![image](https://github.com/FForhad/diceRoller/assets/56457719/cc49de8b-8001-4c83-9804-b7a64a85655a)
+
 
 ## Getting Started
 
